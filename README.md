@@ -1,4 +1,3 @@
-# Minha playlist
 
 <iframe style="border-radius:12px" 
   src="https://open.spotify.com/embed/playlist/0IpJVz4IIxhYIQzjJttGJv?utm_source=generator&theme=0" 
